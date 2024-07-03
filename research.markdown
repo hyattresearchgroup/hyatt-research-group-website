@@ -22,14 +22,14 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
 ### Current Work
 
   Our current work centers on 3 projects:
-* [Hypervalent Iodine-Guided Electrophilic Substitution](/higes/)
-* [Formation of Spirolactams for Trichomoniasis Vaginalis](/spirolactams-trichomoniasis/)
-* [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores](/cycloheptatrienylidene-fluorophores/)
+* [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
+* [Formation of Spirolactams for Trichomoniasis Vaginalis]({{ site.baseurl }}/spirolactams-trichomoniasis/)
+* [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores]({{ site.baseurl }}/cycloheptatrienylidene-fluorophores/)
 
 ## High Temperature Superconductivity
 
 The Hyatt Research Group developed Adelphi University’s first materials science research laboratory in June of 2023, specializing in research on high temperature superconductivity. Using state-of-the-art machine learning algorithms and techniques, we are committed to using artificial intelligence to further the field of superconductivity. We have assembled equipment to refine the synthesis of existing cuprate superconductors, such as the famous YBCO compound, and synthesize new compounds we theorize by our computational workflow.
 
 ### Current Work
-* [High Temperature Superconductivity - Read More](/high-temperature-superconductivity/)
+* [High Temperature Superconductivity - Read More]({{ site.baseurl }}/high-temperature-superconductivity/)
 
