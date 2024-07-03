@@ -30,13 +30,13 @@ Our hypervalent iodine research employs the fields of molecular orbital theory, 
 ## Our Projects:
 
 * **Hypervalent Iodine**
-  * [Hypervalent Iodine-Guided Electrophilic Substitution](/higes/)
-  * [Formation of Spirolactams for Trichomoniasis Vaginalis](/spirolactams-trichomoniasis/)
-  * [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores](/cycloheptatrienylidene-fluorophores/)
+  * [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
+  * [Formation of Spirolactams for Trichomoniasis Vaginalis]({{ site.baseurl }}/spirolactams-trichomoniasis/)
+  * [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores]({{ site.baseurl }}/cycloheptatrienylidene-fluorophores/)
 * **High Temperature Superconductivity**
-  * [Current work - Read More](/high-temperature-superconductivity/)
+  * [Current work - Read More]({{ site.baseurl }}/high-temperature-superconductivity/)
 
-In the summer of 2023, we began our first research project on high temperature superconductivity, establishing Adelphi University's first materials science laboratory and initiative. Read more about that [here](/high-temperature-superconductivity/).
+In the summer of 2023, we began our first research project on high temperature superconductivity, establishing Adelphi University's first materials science laboratory and initiative. Read more about that [here]({{ site.baseurl }}/high-temperature-superconductivity/).
 
 ---
 
