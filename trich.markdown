@@ -16,7 +16,7 @@ A common example of a non-viral sexually transmitted disease that affects people
 ![Spirolactams](/media/images/mechanisms/spirolactams.png)
 
 #### Other research:
-* [Hypervalent Iodine-Guided Electrophilic Substitution](/higes/)
-* [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores](/cycloheptatrienylidene-fluorophores/)
-* [High Temperature Superconductivity](/high-temperature-superconductivity/)
+* [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
+* [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores]({{ site.baseurl }}/cycloheptatrienylidene-fluorophores/)
+* [High Temperature Superconductivity]({{ site.baseurl }}/high-temperature-superconductivity/)
 
