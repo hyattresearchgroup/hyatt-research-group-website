@@ -30,8 +30,8 @@ url: "https://hyattresearchgroup.github.io" # the base hostname & protocol for y
 
 # Build settings
 theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
 navigation:
   - title: Home
     url: /
