@@ -30,6 +30,6 @@ For more information, or to collaborate, reach out to us on our contact page. Ad
 [edwardjansen@mail.adelphi.edu](mailto:edwardjansen@mail.adelphi.edu).
 
 #### Other research:
-* [Hypervalent Iodine-Guided Electrophilic Substitution](/higes/)
-* [Formation of Spirolactams for Trichomoniasis Vaginalis](/spirolactams-trichomoniasis/)
-* [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores](/cycloheptatrienylidene-fluorophores/)
+* [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
+* [Formation of Spirolactams for Trichomoniasis Vaginalis]({{ site.baseurl }}/spirolactams-trichomoniasis/)
+* [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores]({{ site.baseurl }}/cycloheptatrienylidene-fluorophores/)
