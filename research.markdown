@@ -26,14 +26,14 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
 
 ## Antibiotic Dental Composites
 
- Silver is used to purify water and treat medical related issues such as urinary tract infections. Our undergraduate researchers have applied this to the synthesis of silver oximate antimicrobial compoounds and tested these on biological specimens.
+ Silver is used to purify water and treat medical related issues such as urinary tract infections. Our undergraduate researchers have applied this to the synthesis of silver oximate antimicrobial compoounds for dental science in the treatment of cavities. Synthesized compounds have been tested on biological specimens, yielding positive results.
 
 ### Current Work
 * [Antibiotic Dental Composites - Read More]({{ site.baseurl }}/dental/)
 
 ## High Temperature Superconductivity
 
-The Hyatt Research Group developed Adelphi University’s first materials science research laboratory in June of 2023, specializing in research on high temperature superconductivity. Using state-of-the-art machine learning algorithms and techniques, we are committed to using artificial intelligence to further the field of superconductivity. We have assembled equipment to refine the synthesis of existing cuprate superconductors, such as the famous YBCO compound, and synthesize new compounds we theorize by our computational workflow.
+Using state-of-the-art machine learning algorithms and techniques, we are committed to using artificial intelligence to further the field of superconductivity. We have assembled equipment to refine the synthesis of existing cuprate superconductors, such as the famous YBCO compound, and synthesize new compounds we theorize by our computational workflow.
 
 ### Current Work
 * [High Temperature Superconductivity - Read More]({{ site.baseurl }}/high-temperature-superconductivity/)
