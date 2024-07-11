@@ -17,6 +17,6 @@ A common example of a non-viral sexually transmitted disease that affects people
 
 #### Other research:
 * [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
-* [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores]({{ site.baseurl }}/cycloheptatrienylidene-fluorophores/)
+* [Antibiotic Dental Composites]({{ site.baseurl }}/dental/)
 * [High Temperature Superconductivity]({{ site.baseurl }}/high-temperature-superconductivity/)
 
