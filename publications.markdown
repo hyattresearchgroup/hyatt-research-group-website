@@ -7,7 +7,7 @@ Publications (where <sup>AU</sup> stands for an Adelphi Undergraduate)
 
 - Kevin Freddo<sup>AU</sup>, I. F. Dempsey Hyatt, [J. Chem. Educ. 2024, 101, 2389–2394](https://pubs.acs.org/doi/10.1021/acs.jchemed.3c01113). Undergraduate Independent Study Project: Theoretical vs. Computational Approaches to Calculate the Electronic Structure of the D5h symmetric Pentafluoroxenate(IV) Anion
 
-- Christina Callovi<sup>AU</sup>, Su Wint War<sup>AU</sup>, Calvin N. Semczuk<sup>AU</sup>, Madison Fisher<sup>AU</sup>, Matthew Lucero Rodriguez<sup>AU</sup>, Joshua Plaut<sup>AU</sup>, Ivana Joshi<sup>AU</sup>, I. F. Dempsey Hyatt and Daniel L. Silverio, [ARKIVOC, 2022, 126-137](https://www.arkat-usa.org/get-file/74213/). Synthesis and properties of liquid phenyliodine dicarboxylates
+- Christina Callovi<sup>AU</sup>, Su Wint War<sup>AU</sup>, Calvin N. Semczuk<sup>AU</sup>, Madison Fisher<sup>AU</sup>, Matthew Lucero Rodriguez<sup>AU</sup>, Joshua Plaut<sup>AU</sup>, Ivana Joshi<sup>AU</sup>, I. F. Dempsey Hyatt and Daniel L. Silverio, [ARKIVOC, 2022, 126-137](https://www.arkat-usa.org/get-file/79505/). Synthesis and properties of liquid phenyliodine dicarboxylates
 
 - Khyarul Alam, Tian Li, I. F. Dempsey Hyatt, and Mitchell P. Croatt, [Org. Biomol. Chem. 2022, 20, 4719–4723](https://pubs.rsc.org/en/content/articlelanding/2022/ob/d2ob00812b). AlCl3-catalyzed regioselective intermolecular α or γ mono- or α,γ bis-hydroalkoxylation of allenamides with alcohols
 
