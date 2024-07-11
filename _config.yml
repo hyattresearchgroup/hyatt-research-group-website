@@ -21,8 +21,8 @@
 title: Hyatt Research Group
 email: hyattresearchgroup@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hyatt Research Group of Adelphi University.
-  Specialists in Hypervalent Iodine Chemistry.
+  Hyatt Research Group of Adelphi University
+  Specialists in Synthetic Chemistry
 baseurl: "/hyatt-research-group-website" # the subpath of your site, e.g. /blog
 url: "https://hyattresearchgroup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
