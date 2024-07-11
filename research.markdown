@@ -38,11 +38,11 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
 
 * [Antibiotic Dental Composites - Read More]({{ site.baseurl }}/dental/)
 
+## High Temperature Superconductivity
+
 {:refdef: style="text-align: center;"}
 ![superconductor](/media/images/superconductors/ybco_high.png)
 {: refdef}
-
-## High Temperature Superconductivity
 
 Using state-of-the-art machine learning algorithms and techniques, we are committed to using artificial intelligence to further the field of superconductivity. We have assembled equipment to refine the synthesis of existing cuprate superconductors, such as the famous YBCO compound, and synthesize new compounds we theorize by our computational workflow.
 
