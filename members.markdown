@@ -76,7 +76,7 @@ These are the members of the Hyatt Research Group. See [Group Pictures]({{ site.
 
 ### Navindra David, M.D.<br>
 *Former Undergraduate Researcher*<br>
-![Navindra David's Image](/media/images/members/navindra.jpg){:height="408px" width="476px"}<br>
+![Navindra David's Image](/media/images/members/navindra.jpg){:height="400px" width="468.3px"}<br>
 
 ### Hassan Eldib, D.O.<br>
 *Former Undergraduate Researcher*<br>
