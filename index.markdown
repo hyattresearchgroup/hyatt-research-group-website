@@ -34,7 +34,7 @@ The Hyatt Research Group also has projects in dental science and materials scien
 * **Hypervalent Iodine**
   * [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
   * [Formation of Spirolactams for Trichomoniasis Vaginalis]({{ site.baseurl }}/spirolactams-trichomoniasis/)
-* ** Antibiotic Dental Composites
+* **Antibiotic Dental Composites**
   * [Current Work - Read More]({{ site.baseurl }}/dental/) 
 * **High Temperature Superconductivity**
   * [Current work - Read More]({{ site.baseurl }}/high-temperature-superconductivity/)
