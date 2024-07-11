@@ -14,16 +14,11 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
 ### Why Iodine?
 
   Most people are familiar with the element iodine due to its popularity as an antiseptic sold as iodine tinctures. These alcohol containing solutions cause iodine to have a brown color through the generation of something called a charge transfer complex. If iodine is not in an alcohol solution, if forms a different charge transfer complex with air that makes it take on a purple color. However, when in a vacuum, iodine looks like a silvery metal (see images below). 
-  Iodine is a diverse element and exploring the metal-like properties of compounds containing iodine in its hypervalent state is the main focus of the Hyatt Research Group. Specifically, we study iodine(III). Though often used in literature, especially with drug design and synthesis, contributions to research in this field are only undertaken by a small community of chemists. 
-  With knowledge of the metallic character of iodine(iii), we hypothesize: can hypervalent iodine reagents act like a metal to couple two sp3 carbons while avoiding β-hydride elimination?
-  
- 
-
 {:refdef: style="text-align: center;"}
 ![Iodine Combo Image](/media/images/iodinecombo.jpg)
 {: refdef}
-
-
+  Iodine is a diverse element and exploring the metal-like properties of compounds containing iodine in its hypervalent state is the main focus of the Hyatt Research Group. Though often used in literature, especially with drug design and synthesis, contributions to research in hypervalent iodine (HVI) are only undertaken by a small community of chemists. 
+  Given iodine(III)'s metallic properties, we hypothesize that HVI can facilitate the formation of carbon-carbon bonds while avoiding β-hydride elimination. This is feasible through transmetallation, as iodine can undergo transmetallation with organometalloids and organometallics. Addressing this issue is significant because iodine cannot perform β-hydride elimination.
 
 * [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
 * [Formation of Spirolactams for Trichomoniasis Vaginalis]({{ site.baseurl }}/spirolactams-trichomoniasis/)
