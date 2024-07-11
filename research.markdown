@@ -19,8 +19,6 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
 
   When chemists call something "hypervalent" it means that the normal rules of bonding do not apply. Typically, nonmetals follow the octet rule; they prefer to form structures with eight shared electrons around each element. Hypervalency is when compounds form with over eight electrons. In our group, we use iodine(III) which has 10 electrons in most structures. In this higher oxidation state, the hypervalency can be used to exploit unusual and often unexplored metal-like properties of this commonly encountered nonmetal.
 
-### Current Work
-
 * [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
 * [Formation of Spirolactams for Trichomoniasis Vaginalis]({{ site.baseurl }}/spirolactams-trichomoniasis/)
 
@@ -28,13 +26,11 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
 
  Silver is used to purify water and treat medical related issues such as urinary tract infections. Our undergraduate researchers have applied this to the synthesis of silver oximate antimicrobial compoounds for dental science in the treatment of cavities. Synthesized compounds have been tested on biological specimens, yielding positive results.
 
-### Current Work
 * [Antibiotic Dental Composites - Read More]({{ site.baseurl }}/dental/)
 
 ## High Temperature Superconductivity
 
 Using state-of-the-art machine learning algorithms and techniques, we are committed to using artificial intelligence to further the field of superconductivity. We have assembled equipment to refine the synthesis of existing cuprate superconductors, such as the famous YBCO compound, and synthesize new compounds we theorize by our computational workflow.
 
-### Current Work
 * [High Temperature Superconductivity - Read More]({{ site.baseurl }}/high-temperature-superconductivity/)
 
