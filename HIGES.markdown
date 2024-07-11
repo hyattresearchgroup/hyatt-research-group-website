@@ -15,7 +15,7 @@ The **Hypervalent Iodine-Guided Electrophilic Substitution (HIGES)** reaction is
 
 #### Other research:
 * [Formation of Spirolactams for Trichomoniasis Vaginalis](/spirolactams-trichomoniasis/)
-* [Antibiotic Dental Composites]({{ site.baseurl }}/dental/)
+* [Antibiotic Dental Composites](/dental/)
 * [High Temperature Superconductivity](/high-temperature-superconductivity/)
 
 #### See related publications:
