@@ -4,7 +4,7 @@ title: Members
 hide_header: false
 ---
 
-These are the members of the Hyatt Research Group. See [Group Pictures]({{ site.baseurl }}/group_pics/). 
+*These are our current and former members, including students and faculty. See our [Group Pictures]({{ site.baseurl }}/group_pics/).*
 
 ### Ivan Dempsey Hyatt, PhD<br>
 *Associate Professor in Chemistry*<br>
