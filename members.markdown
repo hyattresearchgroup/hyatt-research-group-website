@@ -70,7 +70,7 @@ hide_header: false
 
 ### Navindra David<br>
 *Former Undergraduate Researcher*<br>
-![Navindra David's Image](/media/images/members/navindra.jpg){:height="400px" width="300px"}
+![Navindra David's Image](/media/images/members/navindra.jpg)
 
 ### Hassan Eldib<br>
 *Former Undergraduate Researcher*<br>
