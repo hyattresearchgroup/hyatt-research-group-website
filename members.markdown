@@ -84,7 +84,7 @@ These are the members of the Hyatt Research Group. See [Group Pictures]({{ site.
 
 ### Haram Im<br>
 *Former Undergraduate Researcher*<br>
-![Haram Im's Image](/media/images/members/haram.jpg){:height="300px" width="400px"}
+![Haram Im's Image](/media/images/members/haram.jpg){:height="400px" width="300px"}
 
 ### Kendra Jimenez<br>
 *Former Undergraduate Researcher*<br>
@@ -92,7 +92,7 @@ These are the members of the Hyatt Research Group. See [Group Pictures]({{ site.
 
 ### Taro Jones<br>
 *Former Undergraduate Researcher*<br>
-![Taro Jones's Image](/media/images/members/taro.png){:height="300px" width="400px"}
+![Taro Jones's Image](/media/images/members/taro.png){:height="400px" width="300px"}
 
 ### Kirandeep Kaur<br>
 *Former Undergraduate Researcher*<br>
