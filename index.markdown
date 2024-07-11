@@ -8,8 +8,8 @@ subtitle: An Undergraduate Synthetic Chemistry Lab
 carousels:
   - images:
     - image: /media/images/hyatt.jpg
-    - image: /media/images/Marly.jpg
     - image: /media/images/Meth_Lab_Dark.JPG
+    - image: /media/images/Marly.jpg
     - image: /media/images/Sunset_2022_REMASTERED.JPG
     - image: /media/images/The Future Is Organic.JPG
     - image: /media/images/Stir_Plates_1.jpg
