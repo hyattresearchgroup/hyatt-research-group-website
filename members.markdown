@@ -7,177 +7,165 @@ hide_header: false
 These are the members of the Hyatt Research Group. See [Group Pictures]({{ site.baseurl }}/group_pics/). 
 
 ### Ivan Dempsey Hyatt, PhD<br>
-*Lead Professor and Researcher*<br>
+*Associate Professor in Chemistry*<br>
 ![Dr. Hyatt's Image](/media/images/members/hyatt.jpg){:height="300px" width="400px"}<br>
 
 ### Abraham Ustoyev, PhD<br>
-*Assistant Professor and Researcher, former undergraduate researcher*<br>
-![Dr. Ustoyev's Image](/media/images/members/ustoyev.jpg){:height="400px" width="300px"}
+*Visiting Assistant Professor, Former Undergraduate Researcher*<br>
+![Dr. Ustoyev's Image](/media/images/members/ustoyev.jpg){:height="400px" width="300px"}<br>
 
 ## Current Members
 
 ### Kaitlin Abraham<br>
-*Undergraduate Researcher*<br>
+*Undergraduate Researcher*, B.S. in Biology, seeking Dental School<br>
 <!--![Kaitlin Abraham's Image](/media/images/members/kaitlin.jpg){:height="300px" width="400px"}-->
-B.S. in Biology, seeking Dental School
 
 ### Madison Fisher<br>
-*Undergraduate Researcher*<br>
-![Madison Fisher's Image](/media/images/members/madison.jpg){:height="300px" width="400px"}
-B.S. in Chemistry
+*Undergraduate Researcher*, B.S. in Chemistry<br>
+![Madison Fisher's Image](/media/images/members/madison.jpg){:height="300px" width="400px"}<br>
 
 ### Anna Hollywood<br>
-*Undergraduate Researcher*<br>
+*Undergraduate Researcher*, B.S. in Biology, seeking Medical School<br>
 <!--![Anna Hollywood's Image](/media/images/members/anna.jpg){:height="300px" width="400px"}-->
-B.S. in Biology, seeking Medical School
 
 ### Edward Jansen<br>
-*Undergraduate Researcher*<br>
+*Undergraduate Researcher*, B.S. in Physics, seeking Graduate School<br>
 <!--![Edward Jansen's Image](/media/images/members/edward.jpg){:height="300px" width="400px"}-->
-B.S. in Physics, seeking Graduate School
 
 ### Bhuran Khan<br>
-*Undergraduate Researcher*<br>
+*Undergraduate Researcher*, B.S. in Chemistry, seeking Chemical Industry<br>
 <!--![Bhuran Khan's Image](/media/images/members/bhuran.jpg){:height="300px" width="400px"}-->
-B.S. in Chemistry, seeking Chemical Industry
 
 ### Nicole Koulta<br>
-*Undergraduate Researcher*<br>
+*Undergraduate Researcher*, B.S. in Biology, seeking Dental School<br>
 <!--![Nicole Koulta's Image](/media/images/members/nicole.jpg){:height="300px" width="400px"}-->
-B.S. in Biology, seeking Dental School
 
 ### Ashley Kreth<br>
-*Undergraduate Researcher*<br>
+*Undergraduate Researcher*, B.S. in Chemistry, seeking Graduate School<br>
 <!--![Ashley Kreth's Image](/media/images/members/ashley.jpg){:height="300px" width="400px"}-->
-B.S. in Chemistry, seeking Graduate School
 
 ### Laila Roman<br>
-*Undergraduate Researcher*<br>
+*Undergraduate Researcher*, M.S. in Biology, seeking Medical School<br>
 <!--![Laila Roman's Image](/media/images/members/laila.jpg){:height="300px" width="400px"}-->
-M.S. in Biology, seeking Medical School
 
 ### Max Polonsky<br>
-*Undergraduate Researcher*<br>
+*Undergraduate Researcher*, B.S. in Biology, seeking Medical School<br>
 <!--![Max Polonsky's Image](/media/images/members/max.jpg){:height="300px" width="400px"}-->
-B.S. in Biology, seeking Medical School
 
 ### Joshuah Tavarez<br>
-*Undergraduate Researcher*<br>
+*Undergraduate Researcher*, B.S. in Chemistry, seeking Graduate School<br>
 <!--![Joshuah Tavarez's Image](/media/images/members/joshuah.jpg){:height="300px" width="400px"}-->
-B.S. in Chemistry, seeking Graduate School
-
 
 ## Former Members
 
-### Faiz Ahmed, DO<br>
+### Faiz Ahmed, D.O.<br>
 *Former Undergraduate Researcher*<br>
 <!--![Faiz Ahmed's Image](/media/images/members/faiz.jpg){:height="300px" width="400px"}-->
 
-### Azka Chaudhry<br>
+### Azka Chaudhry, D.O.<br>
 *Former Undergraduate Researcher*<br>
 <!--![Azka Chaudhry's Image](/media/images/members/azka.jpg){:height="300px" width="400px"}-->
 
-### Christina Callovi, MS, Education<br>
-*Former Undergraduate Researcher*<br>
+### Christina Callovi, M.S.<br>
+*Former Undergraduate Researcher*, Education<br>
 <!--![Christina Callovi's Image](/media/images/members/christina.jpg){:height="300px" width="400px"}-->
 
-### Loma Dave, DO<br>
+### Loma Dave, D.O.<br>
 *Former Undergraduate Researcher*<br>
-![Loma Dave's Image](/media/images/members/loma.jpg){:height="400px" width="300px"}
+![Loma Dave's Image](/media/images/members/loma.jpg){:height="400px" width="300px"}<br>
 
-### Navindra David, MD<br>
+### Navindra David, M.D.<br>
 *Former Undergraduate Researcher*<br>
-![Navindra David's Image](/media/images/members/navindra.jpg){:height="408px" width="476px"}
+![Navindra David's Image](/media/images/members/navindra.jpg){:height="408px" width="476px"}<br>
 
-### Hassan Eldib, DO<br>
+### Hassan Eldib, D.O.<br>
 *Former Undergraduate Researcher*<br>
-![Hassan Eldib's Image](/media/images/members/hassan.jpg){:height="300px" width="400px"}
+![Hassan Eldib's Image](/media/images/members/hassan.jpg){:height="300px" width="400px"}<br>
 
-### Arthur Fain, Dental School<br>
-*Former Undergraduate Researcher*<br>
+### Arthur Fain<br>
+*Former Undergraduate Researcher*, Dental School<br>
 <!--![Arthur Fain's Image](/media/images/members/arthur.jpg){:height="300px" width="400px"}-->
 
-### Haram Im, Medical Industry<br>
-*Former Undergraduate Researcher*<br>
-![Haram Im's Image](/media/images/members/haram.jpg){:height="400px" width="350px"}
+### Haram Im<br>
+*Former Undergraduate Researcher*, Medical Industry<br>
+![Haram Im's Image](/media/images/members/haram.jpg){:height="400px" width="350px"}<br>
 
-### Kendra Jimenez, Seeking graduate school<br>
-*Former Undergraduate Researcher*<br>
+### Kendra Jimenez<br>
+*Former Undergraduate Researcher*, Seeking Graduate School<br>
 <!--![Kendra Jimenez's Image](/media/images/members/kendra.jpg){:height="300px" width="400px"}-->
 
-### Taro Jones, PhD Student<br>
-*Former Undergraduate Researcher*<br>
-![Taro Jones's Image](/media/images/members/taro.png){:height="400px" width="350px"}
+### Taro Jones<br>
+*Former Undergraduate Researcher*, PhD Student<br>
+![Taro Jones's Image](/media/images/members/taro.png){:height="400px" width="350px"}<br>
 
-### Ivana Joshi, Medicine<br>
-*Former Undergraduate Researcher*<br>
+### Ivana Joshi<br>
+*Former Undergraduate Researcher*, Medicine<br>
 <!--![Ivana Joshi's Image](/media/images/members/ivana.png){:height="400px" width="300px"}-->
 
-### Kirandeep Kaur<br>
+### Kirandeep Kaur, M.D.<br>
 *Former Undergraduate Researcher*<br>
 <!--![Kirandeep Kaur's Image](/media/images/members/kirandeep.jpg){:height="300px" width="400px"}-->
 
-### Grace Kim, DO<br>
+### Grace Kim, D.O.<br>
 *Former Undergraduate Researcher*<br>
-![Grace Kim's Image](/media/images/members/grace.jpg){:height="400px" width="300px"}
+![Grace Kim's Image](/media/images/members/grace.jpg){:height="400px" width="300px"}<br>
 
-### Casey Kozlik, Dental School<br>
-*Former Undergraduate Researcher*<br>
-![Casey Kozlik's Image](/media/images/members/casey.jpg){:height="300px" width="400px"}
+### Casey Kozlik<br>
+*Former Undergraduate Researcher*, Dental School<br>
+![Casey Kozlik's Image](/media/images/members/casey.jpg){:height="300px" width="400px"}<br>
 
 ### Tian Li, PhD<br>
 *Former Undergraduate Researcher*<br>
-![Tian Li's Image](/media/images/members/tian.jpg){:height="300px" width="400px"}
+![Tian Li's Image](/media/images/members/tian.jpg){:height="300px" width="400px"}<br>
 
-### Samantha Meehan, Pharmacy School<br>
-*Former Undergraduate Researcher*<br>
-![Samantha Meehan's Image](/media/images/members/samantha.jpg){:height="400px" width="300px"}
+### Samantha Meehan<br>
+*Former Undergraduate Researcher*, Pharmacy School<br>
+![Samantha Meehan's Image](/media/images/members/samantha.jpg){:height="400px" width="300px"}<br>
 
-### Marly Medard, MS<br>
+### Marly Medard, M.S.<br>
 *Former Undergraduate Researcher*<br>
 <!--![Marly Medard's Image](/media/images/members/marly.jpg){:height="300px" width="400px"}-->
 
-### Cyrus Mowdawalla, MD<br>
+### Cyrus Mowdawalla, M.D.<br>
 *Former Undergraduate Researcher*<br>
-![Cyrus Mowdawalla's Image](/media/images/members/cyrus.jpg){:height="400px" width="300px"}
+![Cyrus Mowdawalla's Image](/media/images/members/cyrus.jpg){:height="400px" width="300px"}<br>
 
 ### Jennifer Noorollah<br>
-*Former Undergraduate Researcher*<br>
-![Jennifer Noorollah's Image](/media/images/members/jennifer.jpg){:height="400px" width="300px"}
+*Former Undergraduate Researcher*, PhD Student<br>
+![Jennifer Noorollah's Image](/media/images/members/jennifer.jpg){:height="400px" width="300px"}<br>
 
-### Joshua Plaut, Chemical Industry<br>
-*Former Undergraduate Researcher*<br>
+### Joshua Plaut<br>
+*Former Undergraduate Researcher*, Chemical Industry<br>
 <!--![Joshua Plaut's Image](/media/images/members/joshua.jpg){:height="300px" width="400px"}-->
 
-### Kiet Pham, MS<br>
+### Kiet Pham, M.S.<br>
 *Former Undergraduate Researcher*<br>
-![Kiet Pham's Image](/media/images/members/kiet.jpg){:height="300px" width="400px"}
+![Kiet Pham's Image](/media/images/members/kiet.jpg){:height="300px" width="400px"}<br>
 
-### Sean Roudnitsky, Dental School<br>
-*Former Undergraduate Researcher*<br>
+### Sean Roudnitsky<br>
+*Former Undergraduate Researcher*, Dental School<br>
 <!--![Sean Roudnitsky's Image](/media/images/members/sean.jpg){:height="300px" width="400px"}-->
 
-### Calvin Semczuk, Graduate School<br>
-*Former Undergraduate Researcher*<br>
-![Calvin Semczuk's Image](/media/images/members/calvin.jpg){:height="300px" width="400px"}
+### Calvin Semczuk<br>
+*Former Undergraduate Researcher*, Graduate School<br>
+![Calvin Semczuk's Image](/media/images/members/calvin.jpg){:height="300px" width="400px"}<br>
 
-### Nirvanie Singh, PhD Student<br>
-*Former Undergraduate Researcher*<br>
+### Nirvanie Singh<br>
+*Former Undergraduate Researcher*, PhD Student<br>
 <!--![Nirvanie Singh's Image](/media/images/members/nirvanie.jpg){:height="300px" width="400px"}-->
 
-### Jessica Solari, Dental School<br>
-*Former Undergraduate Researcher*<br>
+### Jessica Solari<br>
+*Former Undergraduate Researcher*, Dental School<br>
 <!--![Jessica Solari's Image](/media/images/members/jessica.jpg){:height="300px" width="400px"}-->
 
-### Nicholas Spatola, Chemical Industry<br>
-*Former Undergraduate Researcher*<br>
-![Nicholas Spatola's Image](/media/images/members/nicholas.jpg){:height="400px" width="300px"}
+### Nicholas Spatola<br>
+*Former Undergraduate Researcher*, Chemical Industry<br>
+![Nicholas Spatola's Image](/media/images/members/nicholas.jpg){:height="400px" width="300px"}<br>
 
-### Fatima Siddiqi, Medical Industry<br>
-*Former Undergraduate Researcher*<br>
-![Fatima Siddiqi's Image](/media/images/members/fatima.jpg){:height="400px" width="300px"}
+### Fatima Siddiqi<br>
+*Former Undergraduate Researcher*, Medical Industry<br>
+![Fatima Siddiqi's Image](/media/images/members/fatima.jpg){:height="400px" width="300px"}<br>
 
-### Andrew Zhang, Medicine<br>
-*Former Undergraduate Researcher*<br>
+### Andrew Zhang<br>
+*Former Undergraduate Researcher*, Medicine<br>
 <!--![Andrew Zhang's Image](/media/images/members/andrew.jpg){:height="300px" width="400px"}-->
-
