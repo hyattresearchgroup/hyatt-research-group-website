@@ -32,4 +32,4 @@ For more information, or to collaborate, reach out to us on our contact page. Ad
 #### Other research:
 * [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
 * [Formation of Spirolactams for Trichomoniasis Vaginalis]({{ site.baseurl }}/spirolactams-trichomoniasis/)
-* [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores]({{ site.baseurl }}/cycloheptatrienylidene-fluorophores/)
+* [Antibiotic Dental]({{ site.baseurl }}/cycloheptatrienylidene-fluorophores/)
