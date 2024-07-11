@@ -21,6 +21,7 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
   Given iodine(III)'s metallic properties, we hypothesize that HVI can facilitate the formation of carbon-carbon bonds while avoiding β-hydride elimination. This is feasible through transmetallation, as iodine can undergo transmetallation with organometalloids and organometallics. Addressing this issue is significant because iodine cannot perform β-hydride elimination.
 {:refdef: style="text-align: center;"}
 ![C-C Bond Formation Theory](/media/images/mechanisms/c_c_bond_formation_theory.png)
+**Carbon-Carbon Bond Formation Theory**
 {: refdef}
   The Hypervalent Iodine Transmetallation (HIT) mechanism can be used to explain the double-displacement reaction that takes place with organometalloids, organometallics, and any hybridization of carbon. HIGES (read more below) explains how iodine's metal-like character guides regioselective reactions. 
 
