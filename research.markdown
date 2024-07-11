@@ -19,7 +19,9 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
 {: refdef}
   Iodine is a diverse element and exploring the metal-like properties of compounds containing iodine in its hypervalent state is the main focus of the Hyatt Research Group. Though often used in literature, especially with drug design and synthesis, contributions to research in hypervalent iodine (HVI) are only undertaken by a small community of chemists. 
   Given iodine(III)'s metallic properties, we hypothesize that HVI can facilitate the formation of carbon-carbon bonds while avoiding β-hydride elimination. This is feasible through transmetallation, as iodine can undergo transmetallation with organometalloids and organometallics. Addressing this issue is significant because iodine cannot perform β-hydride elimination.
+{:refdef: style="text-align: center;"}
 ![C-C Bond Formation Theory](/media/images/mechanisms/c_c_bond_formation_theory.png)
+{: refdef}
   The Hypervalent Iodine Transmetallation (HIT) mechanism can be used to explain the double-displacement reaction that takes place with organometalloids, organometallics, and any hybridization of carbon. HIGES (read more below) explains how iodine's metal-like character guides regioselective reactions. 
 
 * [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
