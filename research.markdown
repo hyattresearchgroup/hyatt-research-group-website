@@ -21,10 +21,15 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
 
 ### Current Work
 
-  Our current work centers on 3 projects:
 * [Hypervalent Iodine-Guided Electrophilic Substitution]({{ site.baseurl }}/higes/)
 * [Formation of Spirolactams for Trichomoniasis Vaginalis]({{ site.baseurl }}/spirolactams-trichomoniasis/)
-* [Aggregation Induced Emission of Cycloheptatrienylidene Fluorophores]({{ site.baseurl }}/cycloheptatrienylidene-fluorophores/)
+
+## Antibiotic Dental Composites
+
+ Silver is used to purify water and treat medical related issues such as urinary tract infections. Our undergraduate researchers have applied this to the synthesis of silver oximate antimicrobial compoounds and tested these on biological specimens.
+
+### Current Work
+* [Antibiotic Dental Composites - Read More]({{ site.baseurl }}/dental/)
 
 ## High Temperature Superconductivity
 
