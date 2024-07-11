@@ -9,7 +9,7 @@ Publications (where <sup>AU</sup> stands for an Adelphi Undergraduate)
 
 - Christina Callovi<sup>AU</sup>, Su Wint War<sup>AU</sup>, Calvin N. Semczuk<sup>AU</sup>, Madison Fisher<sup>AU</sup>, Matthew Lucero Rodriguez<sup>AU</sup>, Joshua Plaut<sup>AU</sup>, Ivana Joshi<sup>AU</sup>, I. F. Dempsey Hyatt and Daniel L. Silverio, [ARKIVOC, 2022, 126-137](https://www.arkat-usa.org/get-file/79505/). Synthesis and properties of liquid phenyliodine dicarboxylates
 
-- Khyarul Alam, Tian Li, I. F. Dempsey Hyatt, and Mitchell P. Croatt, [Org. Biomol. Chem. 2022, 20, 4719–4723](https://pubs.rsc.org/en/content/articlelanding/2022/ob/d2ob00812b). AlCl3-catalyzed regioselective intermolecular α or γ mono- or α,γ bis-hydroalkoxylation of allenamides with alcohols
+- Khyarul Alam, Tian Li, I. F. Dempsey Hyatt, and Mitchell P. Croatt, [Org. Biomol. Chem. 2022, 20, 4719–4723](https://pubs.rsc.org/en/content/articlelanding/2022/ob/d2ob00844k). AlCl3-catalyzed regioselective intermolecular α or γ mono- or α,γ bis-hydroalkoxylation of allenamides with alcohols
 
 - Vanie Seecharan<sup>AU</sup>, Lyse Armand<sup>AU</sup>, Jennifer N. Noorollah<sup>AU</sup>, Nirvanie Singh<sup>AU</sup>, Andrew Zhang<sup>AU</sup>, Kevin P. Freddo<sup>AU</sup>, Nicholas Spatola<sup>AU</sup>, Sailesh Prasad<sup>AU</sup>, Azka Chaudhry<sup>AU</sup>, Su Wint War<sup>AU</sup>, I. F. Dempsey Hyatt, and Daniel L. Silverio, [ARKIVOC, 2021, 79-85](https://www.arkat-usa.org/get-file/73213/). Ligand exchange of aryl iodine dicarboxylates to form reagents with differing solubilities
 
