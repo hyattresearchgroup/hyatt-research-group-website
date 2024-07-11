@@ -36,7 +36,7 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
 
 * [Antibiotic Dental Composites - Read More]({{ site.baseurl }}/dental/)
 
-![superconductor](/media/images/superconductors/research_pic.png)
+![superconductor](/media/images/superconductors/ybco_high.png)
 
 ## High Temperature Superconductivity
 
