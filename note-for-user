@@ -1,2 +1,4 @@
-To run debgging:
+To run debugging in command line:
 bundle exec jekyll serve
+
+Need to install ruby, jekyll first as that is what this is built in.
