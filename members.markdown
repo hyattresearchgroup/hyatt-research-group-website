@@ -4,6 +4,8 @@ title: Members
 hide_header: false
 ---
 
+These are the members of the Hyatt Research Group. See [Group Pictures]({{ site.baseurl }}/group_pics/). 
+
 ### Dr. Hyatt<br>
 *Lead Professor and Researcher*<br>
 ![Dr. Hyatt's Image](/media/images/members/hyatt.jpg){:height="300px" width="400px"}<br>
