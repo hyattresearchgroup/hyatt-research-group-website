@@ -30,9 +30,13 @@ The Hyatt Research Group is dedicated to advancing synthetic chemistry for scien
 
 ## Antibiotic Dental Composites
 
+![silver_rxn](/media/images/mechanisms/silver_rxn.png)
+
  Silver is used to purify water and treat medical related issues such as urinary tract infections. Our undergraduate researchers have applied this to the synthesis of silver oximate antimicrobial compoounds for dental science in the treatment of cavities. Synthesized compounds have been tested on biological specimens, yielding positive results.
 
 * [Antibiotic Dental Composites - Read More]({{ site.baseurl }}/dental/)
+
+![superconductor](/media/images/superconductors/research_pic.png)
 
 ## High Temperature Superconductivity
 
