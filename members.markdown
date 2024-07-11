@@ -87,7 +87,7 @@ B.S. in Chemistry, seeking Graduate School
 
 ### Navindra David, MD<br>
 *Former Undergraduate Researcher*<br>
-![Navindra David's Image](/media/images/members/navindra.jpg)
+![Navindra David's Image](/media/images/members/navindra.jpg){:height="408px" width="476px"}
 
 ### Hassan Eldib, DO<br>
 *Former Undergraduate Researcher*<br>
@@ -99,7 +99,7 @@ B.S. in Chemistry, seeking Graduate School
 
 ### Haram Im, Medical Industry<br>
 *Former Undergraduate Researcher*<br>
-![Haram Im's Image](/media/images/members/haram.jpg){:height="400px" width="300px"}
+![Haram Im's Image](/media/images/members/haram.jpg){:height="400px" width="350px"}
 
 ### Kendra Jimenez, Seeking graduate school<br>
 *Former Undergraduate Researcher*<br>
@@ -107,7 +107,7 @@ B.S. in Chemistry, seeking Graduate School
 
 ### Taro Jones, PhD Student<br>
 *Former Undergraduate Researcher*<br>
-![Taro Jones's Image](/media/images/members/taro.png){:height="400px" width="300px"}
+![Taro Jones's Image](/media/images/members/taro.png){:height="400px" width="350px"}
 
 ### Ivana Joshi, Medicine<br>
 *Former Undergraduate Researcher*<br>
