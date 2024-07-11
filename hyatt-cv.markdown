@@ -6,7 +6,7 @@ hide_header: false
 
 ## Curriculum Vitae
 
-![Dempsey Hyatt](/media/images/me2.jpg)
+![Dempsey Hyatt](/media/images/me2.JPG)
 
 **Ivan Fabe Dempsey Hyatt, Ph.D.**  
 Adelphi University, 1 South Ave., Garden City, NY 11530-0701  
